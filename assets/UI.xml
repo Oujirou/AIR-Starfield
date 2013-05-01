@@ -130,9 +130,9 @@
 			<m_strButtonDataIDs>bmpbtn_draw,bmpbtn_copyPixel</m_strButtonDataIDs>
 			<m_nDirection>0</m_nDirection>
 			<m_nBuffer>15</m_nBuffer>
-			<m_nDisplayAlignX>k_DISPLAY_ALIGN_ON_LEFT</m_nDisplayAlignX>
-			<m_nDisplayAlignY>k_DISPLAY_ALIGN_ON_CENTER</m_nDisplayAlignY>
-			<m_nContainerAlignment>3</m_nContainerAlignment>
+			<m_nDisplayAlignX>k_DISPLAY_ALIGN_ON_RIGHT</m_nDisplayAlignX>
+			<m_nDisplayAlignY>k_DISPLAY_ALIGN_ON_TOP</m_nDisplayAlignY>
+			<m_nContainerAlignment>2</m_nContainerAlignment>
 		</ButtonList>
 	</ButtonList>
 	<MenuScreens>

@@ -176,7 +176,7 @@ package
 		private function deactivate(e:Event):void 
 		{
 			// auto-close - No backgrounding for this app.
-			//NativeApplication.nativeApplication.exit();
+			NativeApplication.nativeApplication.exit();
 		}
 		
 		/**
