@@ -7,7 +7,7 @@ package
 	public final class EmbeddedAssets 
 	{
 		[Embed (source="../assets/Button.png" )]
-        public static const Button:Class;
+		public static const Button:Class;
 		
 		[Embed (source="../assets/UI.xml", mimeType="application/octet-stream" )]
 		public static const UI:Class;
